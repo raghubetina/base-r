@@ -1,1 +1,2 @@
-image: rocker/r-base
+image:
+  file: Dockerfile
